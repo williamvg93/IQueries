@@ -1,0 +1,17 @@
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.csproj.AssemblyReference.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.AssemblyInfoInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.AssemblyInfo.cs
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.csproj.CoreCompileInputs.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\bin\Debug\net7.0\IQueries.exe
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\bin\Debug\net7.0\IQueries.deps.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\bin\Debug\net7.0\IQueries.runtimeconfig.json
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\bin\Debug\net7.0\IQueries.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\bin\Debug\net7.0\IQueries.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.csproj.CopyComplete
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\refint\IQueries.dll
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.pdb
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\IQueries.genruntimeconfig.cache
+C:\Users\APM02-066\Documents\Trowa\.net_c#\clases\IQueries\obj\Debug\net7.0\ref\IQueries.dll
